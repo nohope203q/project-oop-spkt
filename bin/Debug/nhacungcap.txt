@@ -1,0 +1,21 @@
+Vinamilk#Thu Duc, TPHCM#0283193927#EMAIL123@gmail.com#Cao Van Teo#Giam Doc
+Nestle#Quang Trung, HCM#0283193928#nestle@example.com#Nguyen Thi Mai#Giam Doc
+Coca Cola#Binh Duong, HCM#0283193929#coca@example.com#Tran Minh Tu#Truong Phong
+Pepsi#Bien Hoa, Dong Nai#0283193930#pepsi@example.com#Le Thi Lan#Giam Doc
+Masan#Thu Duc, TPHCM#0283193931#masan@example.com#Hoang Anh Tu#Giam Doc
+Unilever#Binh Thanh, HCM#0283193932#unilever@example.com#Nguyen Hoa#Truong Phong
+Tetra Pak#Hanoi#0243193933#tetra@example.com#Nguyen Xuan Hoang#Giam Doc
+Vinasoy#Cu Chi, HCM#0283193934#vinasoy@example.com#Trinh Thi Thu#Truong Phong
+Dai Loc#Ho Chi Minh City#0283193935#dailoc@example.com#Pham Thanh Son#Giam Doc
+Suntory PepsiCo#Dong Nai#0283193936#suntory@example.com#Nguyen Thi Minh#Truong Phong
+Hoa Binh#Binh Dinh#0258393937#hoabinh@example.com#Nguyen Thi Hoa#Giam Doc
+Kinh Do#Hanoi#0243193938#kinhdo@example.com#Le Thi Lan#Giam Doc
+FPT#Hanoi#0243193939#fpt@example.com#Nguyen Quang Vinh#Giam Doc
+Dai Loc#Ho Chi Minh City#0283193940#dailoc@example.com#Pham Thanh Son#Truong Phong
+Zebra#TPHCM#0283193941#zebra@example.com#Nguyen Thi Thanh#Giam Doc
+Hoang Anh Gia Lai#Hanoi#0243193942#hagl@example.com#Le Thi Mai#Giam Doc
+Sony#Binh Thanh, HCM#0283193943#sony@example.com#Pham Hong#Truong Phong
+Canon#Hanoi#0243193944#canon@example.com#Nguyen Hoang#Truong Phong
+Samsung#HCM#0283193945#samsung@example.com#Nguyen Tuan#Giam Doc
+LG#Binh Duong#0283193946#lg@example.com#Hoang Thi Lan#Truong Phong
+Number one#100/9, Lê văn việt, Thủ Đức, TPHCM#0289393933#numberone@gmail.com#Huỳnh Thiên Huy#Giam Đốc

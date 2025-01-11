@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\nhanvienbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:nhanvienbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\quanlihoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:quanlihoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\quanlisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:quanlisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|d:\\haoth\\documents\\soure_code\\quanlisieuthimini\\quanlinhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:quanlinhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\quanlinhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:quanlinhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F149DA23-CC88-44DB-A4C2-686A9CA4F4F6}|QuanLiSieuThiMini.csproj|solutionrelative:hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienBanHang.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\NhanVienBanHang.cs",
+              "RelativeDocumentMoniker": "NhanVienBanHang.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\NhanVienBanHang.cs",
+              "RelativeToolTip": "NhanVienBanHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:10:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLiSanPham.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLiSanPham.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiSanPham.cs",
+              "RelativeToolTip": "QuanLiSanPham.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:56:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLiNhanVien.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiNhanVien.cs",
+              "RelativeToolTip": "QuanLiNhanVien.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAgwLcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:53:31.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\HoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\HoaDon.cs",
+              "RelativeToolTip": "HoaDon.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:32:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:17:03.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLi.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLi.cs",
+              "RelativeDocumentMoniker": "QuanLi.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLi.cs",
+              "RelativeToolTip": "QuanLi.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAwwAYBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:00:07.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:42:07.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLiNhaCungCap.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaCungCap.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiNhaCungCap.cs",
+              "RelativeToolTip": "QuanLiNhaCungCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:17:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLiHoaDon.cs",
+              "DocumentMoniker": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLiHoaDon.cs",
+              "ToolTip": "D:\\haoth\\Documents\\Soure_Code\\QuanLiSieuThiMini\\QuanLiHoaDon.cs",
+              "RelativeToolTip": "QuanLiHoaDon.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:17:18.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

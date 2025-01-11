@@ -1,0 +1,7 @@
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\bin\Debug\QuanLiSieuThiMini.exe.config
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\bin\Debug\QuanLiSieuThiMini.exe
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\bin\Debug\QuanLiSieuThiMini.pdb
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\obj\Debug\QuanLiSieuThiMini.csproj.AssemblyReference.cache
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\obj\Debug\QuanLiSieuThiMini.csproj.CoreCompileInputs.cache
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\obj\Debug\QuanLiSieuThiMini.exe
+D:\haoth\Documents\Soure_Code\QuanLiSieuThiMini\obj\Debug\QuanLiSieuThiMini.pdb

@@ -1,0 +1,19 @@
+NV001#Huỳnh Thiên Hạo#Nam#26/09/2005#0376747546#haoht@gmail.com#200/7 Lê Văn Việt, P.Tăng Nhơn Phú B, Thủ Đức, TPHCM#Quản lý#20000000
+NV002#Võ Gia Huân#Nam#01/01/2005#0378768976#huangv@gmail.com#1, Võ Văn Ngân, Thủ Đức, TPHCM#Thủ kho#12000000
+NV004#Nguyễn Thị Thu Hà#Nữ#23/08/2000#0394567890#thuha@gmail.com#34B, Tô Hiến Thành, Q.10, TPHCM#Nhân viên bán hàng#9500000
+NV011#Nguyễn Văn Lâm#Nam#18/06/1994#0378543210#lamnguyen@gmail.com#35, Xô Viết Nghệ Tĩnh, Q.Bình Thạnh, TPHCM#Quản lý#23000000
+NV012#Trần Thanh Phong#Nam#02/02/1992#0345678912#phongtran@gmail.com#8, Võ Thị Sáu, Q.3, TPHCM#Thủ kho#12500000
+NV013#Lê Minh Đức#Nam#29/09/1995#0391234567#minhduc@gmail.com#55, Pasteur, Q.1, TPHCM#Quản lý#24000000
+NV014#Đặng Thị Mai#Nữ#14/04/2001#0371234567#maidang@gmail.com#10, Nguyễn Văn Linh, Q.7, TPHCM#Nhân viên bán hàng#8800000
+NV015#Hoàng Ngọc Dung#Nữ#07/07/2000#0383456780#ngocdung@gmail.com#18, Lê Duẩn, Q.1, TPHCM#Nhân viên bán hàng#9700000
+NV016#Phạm Minh Khoa#Nam#20/10/1997#0376543289#khoap@gmail.com#32, Hoàng Hoa Thám, Q.Bình Thạnh, TPHCM#Quản lý#20000000
+NV017#Nguyễn Thị Hương#Nữ#25/12/1999#0398765432#huongnguyen@gmail.com#12, Cách Mạng Tháng 8, Q.10, TPHCM#Nhân viên bán hàng#9100000
+NV018#Trần Văn Dũng#Nam#19/03/1996#0378912345#dungtran@gmail.com#75, Trần Hưng Đạo, Q.5, TPHCM#Thủ kho#12200000
+NV019#Lê Thanh Tùng#Nam#03/08/1994#0389123450#tungle@gmail.com#9, Hùng Vương, Q.5, TPHCM#Nhân viên bán hàng#9800000
+NV005#Lê Minh Tân#Nam#02/09/2000#0123456479#tanvcl@gmail.com#Thủ Đức, TPHCM#Quản lý#10000000
+NV008#Huỳnh Thiên Hạo#Nam#27/09/2000#0236271818#haoht223@gmail.com#200 lê văn việt#Quản lý#20000000
+NV021#Thái Văn Huy#Nam#27/08/2005#0283782890#huydm@gmail.com#Lê Văn Việt, Tăng Nhơn Phú B, Thủ Đức, TPHCM#Nhân viên bán hàng#3700000
+NV006#Huỳnh Gia Huy#Nam#09/07/2004#098764537#huygia@gmail.com#Võ Văn Ngân, TPHCM#Nhân viên bán hàng#8000000
+NV003#Huỳnh Gia Kiệt#Nam#28/09/2007#0376747546#ketpro@gmail.com#Le van viet, thu duc#Nhân viên bán hàng#3000000
+NV020#Huỳnh Gia Tự#Nam#26/08/2001#0982737272#Tuu@gmail.com#Lê Văn Việt, Thủ Đức#Quản lý#1000000
+NV007#nguyen thanh trieu#Nữ#20/10/2000#1234567890#trieu@gmail.com#binh dinh#Nhân viên bán hàng#3000000
